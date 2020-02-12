@@ -1,4 +1,4 @@
-# <img src=".img/rocketseat.png"> Rocketseat
+# <img src="Todo/img/rocketseat.png"> Rocketseat
 
 # Starter
 Curso Starter da RocketSeat
