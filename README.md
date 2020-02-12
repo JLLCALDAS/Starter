@@ -1,4 +1,4 @@
-# <img <style>width: 20%</style> src="Todo/img/rocketseat.png"> Rocketseat
+# <img width=2% src="Todo/img/rocketseat.png"> Rocketseat
 
 # Starter
 Curso Starter da RocketSeat
