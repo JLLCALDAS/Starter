@@ -1,4 +1,4 @@
-# <img src="https://rocketseat.gallerycdn.vsassets.io/extensions/rocketseat/rocketseatreactnative/2.2.0/1557162274650/Microsoft.VisualStudio.Services.Icons.Default"> Rocketseat
+# <img src=".img/rocketseat.png"> Rocketseat
 
 # Starter
 Curso Starter da RocketSeat
