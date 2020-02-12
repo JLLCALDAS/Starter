@@ -1,0 +1,60 @@
+* {
+    padding: 0px;
+    margin: none;
+}
+
+#app {
+    padding: 32px;
+    background: khaki;
+    max-width: 500px;
+    position: absolute;
+    left: 500px;
+    top: 150px;
+    border-radius: 10px;
+}
+
+#app #todos {
+    max-width: 500px;    
+}
+
+#app #todo {
+    height: 25px;
+    width: 300px;
+    border-radius: 5px;
+    border: none;
+}
+
+#app #todo:focus {
+    background-color: bisque;
+}
+
+#app #btnAdd {
+    height: 25px;
+    width: 75px;
+    border: none;
+    background: khaki;    
+}
+
+#app #btnAdd:hover {
+    cursor: pointer;
+    transition: 0.3s;
+    background-color: yellowgreen;
+}
+
+#todos ul {
+    padding: 5px;
+    color: cadetblue;
+    list-style-type: none;
+}
+
+#todos a {
+    padding: 5px;
+}
+
+#todos img {
+    
+}
+
+#todos img:hover {
+    cursor: pointer;
+}
